@@ -1,0 +1,8 @@
+La pagina principal es index.html
+
+El enlace donde se subió la pagina al hosting es el siguiente:
+
+https://propuestasena.000webhostapp.com/index.html
+
+
+Creado por: Katerinth Duarte
